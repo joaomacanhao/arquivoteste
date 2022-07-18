@@ -1,0 +1,13 @@
+primeiro push
+
+sudo apt-get update (nao fazer)
+
+sudo apt-get install git
+
+ls -a para verificar se git ta instalado
+
+git conig --global user.name "leonardomacanhao"
+
+git config --global user.email "email"joao.macanhao.pb@compasso.com.br"
+
+ls -a para verificar existencia do .gitconfig
